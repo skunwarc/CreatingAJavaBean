@@ -37,4 +37,5 @@ public class Employee {
     public void setDOB(int DOB) {
         this.DOB = DOB;
     }
+
 }
